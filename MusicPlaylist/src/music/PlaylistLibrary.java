@@ -5,13 +5,12 @@ import java.util.*;
 import org.w3c.dom.Node;
 
 /**
+ * @MaryGrlic
  * This class represents a library of song playlists.
  *
  * An ArrayList of Playlist objects represents the various playlists 
  * within one's library.
  * 
- * @author Jeremy Hui
- * @author Vian Miranda
  */
 public class PlaylistLibrary {
 
